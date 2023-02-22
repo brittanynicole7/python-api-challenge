@@ -58,7 +58,7 @@
 -Defined a function for the linear regression
 <img width="969" alt="Screenshot 2023-02-22 at 12 59 49 PM" src="https://user-images.githubusercontent.com/119909433/220731809-47b91355-11e8-42a3-97cb-c0c2c9bd7e05.png"><img width="972" alt="Screenshot 2023-02-22 at 1 00 12 PM" src="https://user-images.githubusercontent.com/119909433/220731891-e7afab44-640b-4e5f-a4cb-a6cb8a2160ad.png">
 
--Seperated coordinates into Northern or Southern latitudes
+-Separated coordinates into Northern or Southern latitudes
 <img width="973" alt="Screenshot 2023-02-22 at 1 00 49 PM" src="https://user-images.githubusercontent.com/119909433/220732028-bb10588c-8412-4e51-a394-2678971016c4.png">
 
 -Ran regressions for each of the relationships
