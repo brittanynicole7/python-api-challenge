@@ -3,8 +3,8 @@
 # Project Description
 
 ## Part-One: Weather API
-  - Create plots to show the relationship between weather variables and latitude including variables like temperature, humidity, cloudiness, and          wind speed. 
-  - Compute the linear regression for each of the relationships between latitude and temperature, cloudiness, humidity, and wind speed and explain the relationships for each of the variable pairs. 
+- Create plots to show the relationship between weather variables and latitude including variables like temperature, humidity, cloudiness, and          wind speed. 
+- Compute the linear regression for each of the relationships between latitude and temperature, cloudiness, humidity, and wind speed and explain the relationships for each of the variable pairs. 
 
 ## Part-Two: VacationPy
 - Create a map highlighting every city in the dataframe from Part-One. 
