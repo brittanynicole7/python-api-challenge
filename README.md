@@ -14,6 +14,7 @@
 - Add the functionality for users to be able to hover over the map and look at the hotel name and country for those coordinates.
 
 # Dependencies
+
 ## Weather API
 -Matplotlib
 -Pandas
@@ -31,7 +32,7 @@
 -Requests
 -Geoapify Key
 
-##Software
+## Software
 -VSCode
 -Python
 -PythonData 3.7 Environment
