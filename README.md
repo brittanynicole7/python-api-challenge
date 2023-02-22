@@ -18,23 +18,23 @@
 ## Weather API
 -Matplotlib \
 -Pandas \
--Numpy
--Requests
--Time
--Scipy.Stats
--Citipy
--Weather API Key
+-Numpy \
+-Requests \
+-Time \
+-Scipy.Stats \
+-Citipy \
+-Weather API Key \
 
 ## VacationPy
--CSV file from Part-One
--HVPlot
--Pandas
--Requests
--Geoapify Key
+-CSV file from Part-One \
+-HVPlot \
+-Pandas \
+-Requests \
+-Geoapify Key \
 
 ## Software
--VSCode
--Python
+-VSCode \
+-Python \
 -PythonData 3.7 Environment
 
 ## Part-One
