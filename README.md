@@ -16,8 +16,8 @@
 # Dependencies
 
 ## Weather API
--Matplotlib
--Pandas
+-Matplotlib \
+-Pandas \
 -Numpy
 -Requests
 -Time
