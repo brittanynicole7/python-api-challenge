@@ -71,6 +71,8 @@
 ## Part-Two
 -Created a map for each of the cities after loading in the csv file
 <img width="948" alt="Screenshot 2023-02-22 at 1 06 13 PM" src="https://user-images.githubusercontent.com/119909433/220733218-d840987e-95e4-4ae5-a886-e5e87a44525f.png">
+<img width="946" alt="Screenshot 2023-02-22 at 1 25 02 PM" src="https://user-images.githubusercontent.com/119909433/220737214-0914f9eb-b739-4861-8b67-9e2e6ee6656f.png">
+
 
 -Filtered the dataframe based on ideal weather condition 
 <img width="959" alt="Screenshot 2023-02-22 at 1 07 05 PM" src="https://user-images.githubusercontent.com/119909433/220733368-38904c2d-85ee-47f8-be51-949efa36b6e3.png">
@@ -81,6 +83,7 @@
 
 -Created a functionality to where you can hover over cities and obtain the city and hotel name for that city
 <img width="969" alt="Screenshot 2023-02-22 at 1 08 45 PM" src="https://user-images.githubusercontent.com/119909433/220733727-854f051c-d633-4f6d-8dbf-a3e4c97c5271.png">
+<img width="938" alt="Screenshot 2023-02-22 at 1 25 46 PM" src="https://user-images.githubusercontent.com/119909433/220737402-e27d2d92-59ca-49f3-959c-125c33829344.png">
 
 # Author 
 -Brittany Wright github:brittanynicole7
