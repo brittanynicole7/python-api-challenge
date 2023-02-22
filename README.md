@@ -23,14 +23,14 @@
 -Time \
 -Scipy.Stats \
 -Citipy \
--Weather API Key \
+-Weather API Key 
 
 ## VacationPy
 -CSV file from Part-One \
 -HVPlot \
 -Pandas \
 -Requests \
--Geoapify Key \
+-Geoapify Key 
 
 ## Software
 -VSCode \
