@@ -13,3 +13,30 @@
 - Use Geoapify API to find hotels within 10,000 meters of the coordinates in the dataframe and populate a table with these hotels. If no hotel can be found within the radius, print "No hotel found."
 - Add the functionality for users to be able to hover over the map and look at the hotel name and country for those coordinates.
 
+# Dependencies
+## Weather API
+-Matplotlib
+-Pandas
+-Numpy
+-Requests
+-Time
+-Scipy.Stats
+-Citipy
+-Weather API Key
+
+## VacationPy
+-CSV file from Part-One
+-HVPlot
+-Pandas
+-Requests
+-Geoapify Key
+
+##Software
+-VSCode
+-Python
+-PythonData 3.7 Environment
+
+## Part-One
+<img width="803" alt="Screenshot 2023-02-22 at 12 54 25 PM" src="https://user-images.githubusercontent.com/119909433/220730655-74a64247-fd3a-4208-a8a8-5221b0005eaf.png">
+-Generated cities from citipy
+
